@@ -1,0 +1,53 @@
+body {
+  font-family: "Times New Roman", serif;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  width: 85%;
+}
+
+th,
+td {
+  border: 1px solid #666;
+  padding: 10px;
+  font-size: 14px;
+}
+
+th {
+  background-color: #e6e6e6;
+  font-weight: bold;
+}
+
+.waktu {
+  background-color: #e6e6e6;
+  font-weight: bold;
+}
+
+.senin {
+  background-color: #ffcccc;
+}
+
+.selasa {
+  background-color: #ccffcc;
+}
+
+.rabu {
+  background-color: #ccccff;
+}
+
+.kamis {
+  background-color: #fff2cc;
+}
+
+.istirahat {
+  background-color: #eeeeee;
+  font-weight: bold;
+}
